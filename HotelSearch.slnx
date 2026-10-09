@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="compose.yaml" />
+  </Folder>
+  <Project Path="HotelSearch.Application/HotelSearch.Application.csproj" Id="fcad92dc-8f62-4384-9445-335b365c622b" />
+  <Project Path="HotelSearch.Domain/HotelSearch.Domain.csproj" Id="50d19a81-71a3-4ddf-b018-d7ceb49daedb" />
+  <Project Path="HotelSearch/HotelSearch.Api.csproj" />
+  <Project Path="Infrastructure/HotelSearch.Infrastructure.csproj" Id="a48268c0-e06c-431d-b2b1-153909c3b1ac" />
+</Solution>
